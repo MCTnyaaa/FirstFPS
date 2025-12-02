@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/3R/BH5S18263W81CDLEJ5YT84.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/VJ/6YLFNWK7VNPK93XXGF7NBI.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/OZ/TGT9AP7JS3FT3LML9IJQYK.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8E/FYL6OM2HQR0V3DL7XCG6FM.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/PT/GEYCF7TF8NF5GDUWMG6Q0C.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9P/JD9QW7JQR4POD9UIZIATJY.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/VU/KVZ0ZTWJXAYAOY943VI9B5.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/Target/SM_Target_SM_Target/GC_SM_Target.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/PM/TWKMMDJWFD5QLDRNTR3ZFT.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/U5/I4ETSFMPOQMG8NCDFR29JV.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/MJ/N07H5FVPG8PRTWM7O4D3KV.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5N/WDKRZXSTFQ134YXY8CMEAY.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/06/IQBH6GCSVOXT44JX7S9JV7.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/VC/J14YK6XI6NR7KP8JXSVWF1.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/UnrealEngine Projects/FirstFPS/Content/Target/SM_Target.uasset"
+			]
+		}
+	]
+}

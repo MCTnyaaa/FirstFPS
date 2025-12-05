@@ -1,2 +1,2 @@
 # FirstFPS
-A small FPS prototype built in Unreal Engine 5 using Blueprints. The player navigates a castle environment and must shoot all targets before time runs out. I implemented player movement, shooting mechanics, hit registration, timers, and interactive target behavior.
+A small FPS prototype built in Unreal Engine 5 using Blueprints. Features include basic player movement, shooting mechanics, hit-registration, a countdown timer, and interactive targets that react when hit. I implemented all gameplay logic, target behavior, and game flow systems.

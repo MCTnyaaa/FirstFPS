@@ -1,4 +1,5 @@
 # FirstFPS
+First FPS – Unreal Engine 5
 This is a simple first-person target practice prototype. The player must shoot a required number of targets within a set time limit. I created this project to practice gameplay scripting, blueprint logic, timers, collision, and basic UX feedback.
 
 Key Features:
@@ -18,6 +19,6 @@ This project strengthened my understanding of:
 To view the project:
 	Download the Unreal Engine project from the GitHub repository below.
 	Open the project in Unreal Engine 5.
-	Open the map: FirstFPS.umap
+	Open the map: FirstPersonMap.umap
 
 GitHub repository: https://github.com/MCTnyaaa/FirstFPS

@@ -22,3 +22,4 @@ To view the project:
 	Open the map: FirstPersonMap.umap
 
 GitHub repository: https://github.com/MCTnyaaa/FirstFPS
+Google Drive (video and screenshots): https://drive.google.com/drive/folders/1LW2_WyvzdDb_LkOY3gYfpI6y47WrYMyC?usp=sharing
